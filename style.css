@@ -4,18 +4,14 @@
 }
 body{
     background-color: #F1F2F4;
-    /* height: 6133px;  */
     height: auto;
 }
-/* hide scrollbar for chrome,safari and opera */
 body::-webkit-scrollbar{
     display: none;
 }
-/* hide scrollbar for firefox */
 html{
     scrollbar-width: none;
 }
-/* hide scrollbar for Edge,IE */
 body{
     -ms-overflow-style: none;
 }
